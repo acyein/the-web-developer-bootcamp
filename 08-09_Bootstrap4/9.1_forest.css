@@ -1,0 +1,8 @@
+#header {
+    background: url("9.1_images/marita-kavelashvili-ugnrXk1129g-unsplash.jpg") top / cover no-repeat;
+}
+
+img {
+    height: 15rem;
+    object-fit: cover;
+}

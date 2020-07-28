@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-weight: normal;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.4em;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color: lightseagreen;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+#continueRead {
+    font-style: italic;
+    font-size: 0.8em;
+    text-align: right;
+}
+
+#storyLink:link {
+    color: lightseagreen;
+}
+
+#storyLink:visited {
+    color: lightslategray;
+}

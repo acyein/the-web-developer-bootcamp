@@ -1,0 +1,12 @@
+<!-- Adding header template -->
+<%- include("partials/header") %>
+<h1>You are viewing: <%= plantNameVar.toUpperCase() %> </h1>
+
+<% if(plantNameVar.toLowerCase() === "monsterra"){ %>
+    <p>Great pick! Monsterra is beautiful indoors.</p>
+<% } else { %>
+    <p>Bad choice! You should have picked Monsterra!</p>
+<% } %>
+
+<!-- Adding footer template -->
+<%- include("partials/footer") %>

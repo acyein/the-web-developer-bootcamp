@@ -1,0 +1,79 @@
+body {
+    background: #c8e4ee;
+    font-family: 'Nunito', sans-serif;
+    overflow-x: hidden;                     /*Removes horizontal scrollbar at the bottom of page*/
+}
+
+.overlay-effect {
+    background-color: #ebebeb;
+    position: relative;
+    top: 0;
+    left: 0;
+    opacity: 70%;
+}
+
+.icon {
+    margin: 22px;
+    height: 3.2rem;
+    opacity: 90%;
+}
+
+.blurb h2 {
+    color: #e43434;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p {
+    color:  #fda2c2;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+    color: #e43434;
+    font-size: 1.5rem;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #e43434;
+}
+
+#headingGroup span {
+    color: #e43434;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.navbar.scrolled {
+    background: #f5b2d4;
+    transition: 0.5s;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}

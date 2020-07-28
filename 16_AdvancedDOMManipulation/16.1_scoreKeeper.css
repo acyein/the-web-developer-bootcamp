@@ -1,0 +1,29 @@
+html, body, h2 {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    background-color: lavender;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+}
+
+h3 {
+    color: purple;
+}
+
+div {
+    margin: 0.5rem;
+}
+
+.winner {
+    color: green;
+}
+
+button {
+    background-color: lavender;
+}

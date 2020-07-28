@@ -1,0 +1,60 @@
+/* Icons */
+.glyphicon-leaf {
+    padding-right: 8px;
+}
+
+.fa-fingerprint {
+    padding-right: 15px;
+}
+
+/* Navbar */
+.navbar-inverse {
+    background: rgb(35, 54, 88);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+    color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+} 
+
+/* Main */
+body {
+    padding-top: 80px;
+    padding-bottom: 15px;
+}
+
+.thumbnail {
+    border-color: #eff1f7;
+}
+
+.thumbnail img {
+    object-fit: cover;
+    height: 200px !important;
+    width: 100%;
+}
+
+.jumbotron {
+    color: rgb(35, 54, 88);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #eff1f7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.jumbotron h1 {
+    letter-spacing: -0.3rem;
+}
+
+.jumbotron p {
+    letter-spacing: -0.1rem;
+}
+
+p:hover {
+    color: rgb(184, 190, 211);
+    transition: 0.5s;
+}

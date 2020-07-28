@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: auto;
+}
+
+body {
+    background-color: rgb(255, 240, 242);
+}
+
+footer {
+    font-size: 10px;
+    text-align: center;
+}

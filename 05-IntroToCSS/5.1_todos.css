@@ -1,0 +1,16 @@
+body{
+    background: lightcyan;
+}
+
+li {
+    border: 1.5px goldenrod none;
+    
+}
+
+#highlight {
+    background: rgb(220, 243, 116);
+}
+
+.done {
+    text-decoration: line-through;
+}

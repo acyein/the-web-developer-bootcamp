@@ -1,0 +1,22 @@
+p {
+    font-size: 23px;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 2px solid rgb(219, 219, 219);
+    padding-bottom: 20px;
+    width: 30%;
+    margin-left: 35%;
+}
+
+p:hover {
+    color: rgb(219, 219, 219);
+    transition: color .4s;
+}
+
+img {
+    float: left;
+    width: 30%;
+    margin: 1.66%
+}

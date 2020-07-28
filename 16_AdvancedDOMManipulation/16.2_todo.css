@@ -1,0 +1,12 @@
+li {
+	font-size: 1.2rem;
+}
+
+.done {
+	text-decoration: line-through;
+	opacity: 0.5;
+}
+
+.selected {
+	color: rgb(212, 0, 255);
+}

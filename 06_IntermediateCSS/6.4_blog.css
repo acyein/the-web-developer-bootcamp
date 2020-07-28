@@ -1,0 +1,39 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    border: 20px outset lightblue;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.date {
+    color: rgb(47, 184, 230);
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+
+h2 {
+    color: rgb(39, 63, 94);
+    font-size: 2.0rem;
+    font-weight: 700;
+}
+
+.quote {
+    border-left: 5px solid lightblue;
+    padding-left: 5px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+ 
+hr { 
+    border: 0; 
+    height: 1px; 
+    background-image: -webkit-linear-gradient(left, #f0f0f0, rgb(47, 184, 230), #f0f0f0);
+    background-image: -moz-linear-gradient(left, #f0f0f0, rgb(47, 184, 230), #f0f0f0);
+    background-image: -ms-linear-gradient(left, #f0f0f0, rgb(47, 184, 230), #f0f0f0);
+    background-image: -o-linear-gradient(left, #f0f0f0, rgb(47, 184, 230), #f0f0f0); 
+    margin-bottom: 20px;
+}
