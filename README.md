@@ -2,8 +2,8 @@
 Exercises and projects made throughout The Web Developer Bootcamp
 
 ## Main Project
-**[YelpCamp](https://glacial-spire-56138.herokuapp.com/)**  
-A site showcasing various campgrounds in South-East Asia  
+**YelpCamp**  
+A [site](https://glacial-spire-56138.herokuapp.com/) showcasing various campgrounds in South-East Asia  
 Code: [yelp-camp](https://github.com/acyein/yelp-camp)
 
 ## Tools and Technologies
