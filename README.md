@@ -1,9 +1,10 @@
 # The Web Developer Bootcamp
-Exercises and projects made throughout The Web Developer Bootcamp.
+Exercises and projects made throughout The Web Developer Bootcamp
 
 ## Main Project
-**YelpCamp**  
-A site showcasing various campsites in Malaysia.
+**[YelpCamp](https://glacial-spire-56138.herokuapp.com/)**  
+A site showcasing various campgrounds in South-East Asia  
+Code: [yelp-camp](https://github.com/acyein/yelp-camp)
 
 ## Tools and Technologies
 ### Front-End
@@ -30,6 +31,6 @@ A site showcasing various campsites in Malaysia.
 ## Course Details
 **Title**: The Web Developer Bootcamp  
 **Instructor**: Colt Steele  
-**Medium**: Udemy  
+**Medium**: [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)  
 **Started**: June 12, 2020  
 **Completed**: July 24, 2020
